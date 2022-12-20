@@ -18,3 +18,5 @@ Arrow Keys | Left, Right, Up and Down for spaceship directions
 Spacebar | Fire
 P | Pause Menu
 ESC | Quit Game
+
+[The Ultimate Guide to Game Development with Unity](https://www.udemy.com/course/the-ultimate-guide-to-game-development-with-unity)
